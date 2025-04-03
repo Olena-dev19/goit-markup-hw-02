@@ -86,20 +86,17 @@ ul {
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
-    text-align: center;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 .banner .buttom {
     background-color: #4D5AE5;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    text-align: center;
     cursor: pointer;
 }
 
@@ -132,7 +129,6 @@ ul {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
 }
@@ -158,7 +154,6 @@ ul {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2E2F42;
     text-transform: capitalize;
 }
