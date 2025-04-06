@@ -28,7 +28,7 @@ ul {
     font-family: "Raleway", sans-serif
 }
 
-.logo1 {
+.logo-head {
     color: #2e2f42;
     text-decoration: none;
 }
@@ -44,22 +44,18 @@ ul {
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     letter-spacing: 0.02em;
 }
-.studio:hover {
+.nav:hover {
     color: #404BBF;
 }
 
-.studio:active {
+.nav:focus {
     color: #404BBF;
 }
 
-.portfolio:hover{
-    color: #404BBF;
-}
 
-.contacts:hover {
-    color: #404BBF;
+.cont {
+    font-style: normal;
 }
-
 
 .cont li a {
     font-style: normal;
@@ -89,6 +85,7 @@ ul {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    text-align: center;
 }
 .banner .buttom {
     background-color: #4D5AE5;
@@ -112,6 +109,7 @@ ul {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    
 }
 .text-sol {
     font-weight: 400;
@@ -131,6 +129,7 @@ ul {
     letter-spacing: 0.02em;
     color: #2E2F42;
     text-transform: capitalize;
+    text-align: center;
 }
 .sect-team-card {
     background-color: #ffffff;
@@ -156,6 +155,7 @@ ul {
     letter-spacing: 0.02em;
     color: #2E2F42;
     text-transform: capitalize;
+    text-align: center;
 }
 .prt-name {
     font-weight: 500;
@@ -174,7 +174,7 @@ ul {
 .footer-sect{
     background-color:#2e2f42;
 }
-.logo2 {
+.logo-foot {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
